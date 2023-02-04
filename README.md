@@ -2,7 +2,7 @@
 For more support:
 https://discord.gg/jEjNtxB5Ae
 # What config do you recommend?
-to be honest i don't know, but if you really wanna know. i recommend soup config.
+to be honest i don't know, but if you really wanna know. i recommend Spam Config💬.
 # How to use a config(Free)
 Go to your executor's workspace folder
 ![image](https://user-images.githubusercontent.com/49023948/208844577-8c82fbec-0728-4c1a-a268-4c1c83b62cc6.png)
