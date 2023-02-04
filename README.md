@@ -25,7 +25,6 @@ Replace the settings.txt with your config and rename it to settings.txt
 # Supported Executor(Known)
 Synapse X - https://x.synapse.to - Paid  
 Krnl - https://krnl.place - Free  
-Evon - https://evonexecutor.com or https://sakpot.com/evon-executor/ - Free  
 Fluxus - https://fluxteam.net - Free  
 (Possibly) Script-Ware - https://script-ware.com - Paid
 # How to check & transfer your robux from your alts fast?
