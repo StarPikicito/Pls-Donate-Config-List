@@ -1,4 +1,4 @@
-# Best configs for Tzech's PLS DONATE Script
+# Best configs for CF-Community PLS DONATE Script
 For more support:
 https://discord.gg/jEjNtxB5Ae
 # What config do you recommend?
