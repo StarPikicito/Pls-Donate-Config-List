@@ -5,22 +5,20 @@ https://discord.gg/eed4KKUCYN
 to be honest i don't know, but if you really wanna know. i recommend 🔮Fortune🔮.
 # How to use a config(Free)
 Go to your executor's workspace folder
-![image](https://user-images.githubusercontent.com/49023948/208844577-8c82fbec-0728-4c1a-a268-4c1c83b62cc6.png)
+
+![Screenshot_5](https://user-images.githubusercontent.com/111666905/225134259-a51f2755-3c26-4c71-9889-b390932da016.png)
 
 
 Drag the config you downloaded into the folder
-![image](https://user-images.githubusercontent.com/49023948/208844622-b6ad7932-5330-48f5-83d2-925660533e42.png)
+
+![Screenshot_7](https://user-images.githubusercontent.com/111666905/225134517-3d873744-95bc-4a22-91f8-7a30df64ca8a.png)
 
 
-Rename the config to "plsdonatesettings"
-![image](https://user-images.githubusercontent.com/49023948/208844661-865ff8cc-9b34-4d2a-8860-03e21069a863.png)  
-# How to use a config(Premuim)
-Go to your executor's workspace folder  
-![image](https://user-images.githubusercontent.com/49023948/208844577-8c82fbec-0728-4c1a-a268-4c1c83b62cc6.png)  
-You will see a folder called plsdonategui, click it.  
-![image](https://user-images.githubusercontent.com/49023948/209438612-3d2276d8-f27f-4b5d-b891-3624659f27a5.png)  
-Replace the settings.txt with your config and rename it to settings.txt  
-![image](https://user-images.githubusercontent.com/49023948/209438644-f1d8b831-fbe8-45f0-8952-4d290df66dd5.png)
+Rename the config to "plsdonateupdatedversion.txt"
+
+![Screenshot_8](https://user-images.githubusercontent.com/111666905/225134652-dd3b6914-c55d-4878-83c5-ba126b90f414.png)
+ 
+
 
 # Supported Executor(Known)
 Synapse X - https://x.synapse.to - Paid  
