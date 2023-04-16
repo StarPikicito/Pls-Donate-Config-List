@@ -14,13 +14,7 @@ Drag the config you downloaded into the folder
 
 Rename the config to "plsdonatesettings"
 ![image](https://user-images.githubusercontent.com/49023948/208844661-865ff8cc-9b34-4d2a-8860-03e21069a863.png)  
-# How to use a config(Premuim)
-Go to your executor's workspace folder  
-![image](https://user-images.githubusercontent.com/49023948/208844577-8c82fbec-0728-4c1a-a268-4c1c83b62cc6.png)  
-You will see a folder called plsdonategui, click it.  
-![image](https://user-images.githubusercontent.com/49023948/209438612-3d2276d8-f27f-4b5d-b891-3624659f27a5.png)  
-Replace the settings.txt with your config and rename it to settings.txt  
-![image](https://user-images.githubusercontent.com/49023948/209438644-f1d8b831-fbe8-45f0-8952-4d290df66dd5.png)
+
 
 # Supported Executor(Known)
 Synapse X - https://x.synapse.to - Paid  
