@@ -1,4 +1,7 @@
 # Best configs for CF-Community PLS DONATE Script
+
+**Creator**:  **szze#6220**
+
 For more support:
 https://discord.gg/jEjNtxB5Ae
 # What config do you recommend?
