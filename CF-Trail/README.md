@@ -3,7 +3,7 @@
 **Creator**:  **szze#6220**
 
 For more support:
-https://discord.gg/jEjNtxB5Ae
+No
 # What config do you recommend?
 to be honest i don't know, but if you really wanna know. i recommend Spam Config💬.
 # How to use a config(Free)
@@ -19,10 +19,9 @@ Rename the config to "plsdonatesettings"
 ![image](https://user-images.githubusercontent.com/49023948/208844661-865ff8cc-9b34-4d2a-8860-03e21069a863.png)  
 
 
-# Supported Executor(Known)
-Synapse X - https://x.synapse.to - Paid  
-Krnl - https://krnl.place - Free  
-Fluxus - https://fluxteam.net - Free  
+# Supported Executor(Known)  
+Krnl - https://krnl.vip/ - Free  
+Fluxus - Dicontinued? - Free  
 (Possibly) Script-Ware - https://script-ware.com - Paid
 # How to check & transfer your robux from your alts fast?
 Download this tool:  
