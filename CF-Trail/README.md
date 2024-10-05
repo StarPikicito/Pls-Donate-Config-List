@@ -1,7 +1,7 @@
 # Best configs for CF-Community PLS DONATE Script
-#Do you have a configuration you want to upload?:**JNSAPY**
+# Do you have a configuration you want to upload?: **JNSAPY**   (Discord)
 
-**Creator**:  **szze**
+**Creator**:  **szze** (Discord)
 
 For more support:
 https://discord.gg/VYUqe3kwJT
